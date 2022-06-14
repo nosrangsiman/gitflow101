@@ -1,6 +1,6 @@
 all branch
 
-    - main (main branch where we are going to marge all our branch)
+    - master (main branch where we are going to marge all our branch)
         - feature
     - production (real server production workload)
         - hotfix (branches that are quick fixes on production)
